@@ -1,7 +1,7 @@
 # youtube-to-spotify-playlist
 Automate adding songs from Youtube playlist to Spotify playlist
 
-## APIs and Python Libraries:
+## APIs and Python Libraries
 - Spotify Web API (https://developer.spotify.com/documentation/web-api/)
 - YouTube Data API v3 (https://developers.google.com/youtube/v3)
 - Python Requests (https://requests.readthedocs.io/en/master/)
