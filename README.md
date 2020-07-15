@@ -1,4 +1,4 @@
-## youtube-to-spotify-playlist
+# youtube-to-spotify-playlist
 Automate adding songs from Youtube playlist to Spotify playlist
 
 ## APIs and Python Libraries:
